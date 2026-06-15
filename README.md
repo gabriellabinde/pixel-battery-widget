@@ -1,12 +1,12 @@
-## Preview
-
-![Pixel Heard Battery Status](screenshot.png)
-
 # Pixel Battery Widget
 
 A retro-inspired battery indicator widget for Übersicht that displays battery level using pixel-art hearts.
 
 Inspired by classic video game health systems, the widget transforms battery percentage into a visual heart-based indicator that updates automatically.
+
+## Preview
+
+![Pixel Heard Battery Status](screenshot.png)
 
 ## Features
 
