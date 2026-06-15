@@ -1,6 +1,3 @@
-# pixel-battery-widget
-Retro-inspired battery indicator widget for Übersicht using pixel hearts.
-
 ## Preview
 
 ![Pixel Heard Battery Status](screenshot.png)
